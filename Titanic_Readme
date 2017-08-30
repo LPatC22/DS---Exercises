@@ -1,0 +1,10 @@
+The following files correspond to the ggplot2 tutorial exercise:
+  Titanic.R
+  Titanic.html
+  titanic_csv
+In the exercise we copied and pasted the last exercese from the ggplot2 (Part 1) tutorial.
+Notes: the script as it was would not run for the following reasons:
+  1) The dataset was missing from the workspace
+  2) The names of the columns were different (with capital letter at the beginning)
+Thus I downloaded the dataset from Kaggle website to my computer, and then I loaded in on the script.
+Then I edited the script, to reference the columns correctly.
