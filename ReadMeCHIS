@@ -1,0 +1,7 @@
+Data Visualization exercise referencing dataset from the California Health Interview Survey (CHIS)
+
+1. CHIS.R contains the last exercise from the ggplot2 (Part2) tutorial. Copied and pasted.
+
+2. Data Visualization-Contraception Method.R contains the same lines from CHIS.R, 
+just that on it I am referencing for the mosaic plots the dataset we have for the capstone project,
+Contraception Method, in order to test the script, as we don't have the CHIS dataset available.
